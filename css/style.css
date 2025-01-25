@@ -5,14 +5,22 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background: linear-gradient(135deg, silver, red);
+    height: 100vh;
+    justify-content: center;
 }
 
 canvas {
     border: 1px solid black;
     cursor: crosshair;
     margin-top: 20px;
+    background-color: white;
 }
 
 div {
     margin-top: 20px;
+}
+
+input[type="text"] {
+    background-color: #f0f0f0;
 }
