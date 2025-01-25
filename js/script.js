@@ -12,6 +12,7 @@ window.addEventListener("DOMContentLoaded", () => {
     document.getElementById('submitBtn').addEventListener('click', function() {
         const fromClass = document.getElementById('fromClass').value;
         const toClass = document.getElementById('toClass').value;
+        ctx.drawImage(mapImage, 0, 0, canvas.width, canvas.height);
         fetch('pins/A.json')
             .then(response => response.json())
             .then(data => {
