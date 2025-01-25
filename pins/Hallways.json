@@ -1,0 +1,51 @@
+[
+    {
+      "x": 538,
+      "y": 141,
+      "width": 36,
+      "height": 22,
+      "label": "A"
+    },
+    {
+      "x": 565,
+      "y": 159,
+      "width": 10,
+      "height": 145,
+      "label": "A"
+    },
+    {
+      "x": 468,
+      "y": 290,
+      "width": 114,
+      "height": 13,
+      "label": "A"
+    },
+    {
+      "x": 522,
+      "y": 295,
+      "width": 12,
+      "height": 45,
+      "label": "A"
+    },
+    {
+      "x": 572,
+      "y": 229,
+      "width": 114,
+      "height": 9,
+      "label": "A"
+    },
+    {
+      "x": 573,
+      "y": 202,
+      "width": 109,
+      "height": 8,
+      "label": "A"
+    },
+    {
+      "x": 668,
+      "y": 183,
+      "width": 15,
+      "height": 50,
+      "label": "A"
+    }
+  ]
